@@ -1,0 +1,9 @@
+{
+  "name": "review-katas",
+  "version": "0.1.0",
+  "description": "Code review practice: realistic pull requests with planted problems. Your agent plays the author, pushes back, and debriefs what you caught, missed and how your comments landed.",
+  "author": { "name": "nuttakulsv" },
+  "homepage": "https://github.com/nuttakulsv/review-katas",
+  "license": "MIT",
+  "keywords": ["code-review", "katas", "practice", "pull-requests", "mentoring", "staff-engineer"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "review-katas",
+  "owner": { "name": "nuttakulsv" },
+  "description": "Practise code review on pull requests with planted problems",
+  "plugins": [
+    {
+      "name": "review-katas",
+      "source": "./",
+      "description": "Code review practice: realistic pull requests with planted problems. Your agent plays the author, pushes back, and debriefs what you caught, missed and how your comments landed."
+    }
+  ]
+}
